@@ -10,7 +10,7 @@ public class LedControl {
 
 	public static void main(String[] args) throws InterruptedException {
 
-		// get GIPO controller 
+		// get GIPO controller
 		final GpioController gpio = GpioFactory.getInstance();
 
 		// create the pin with parameter PinState.HIGH
