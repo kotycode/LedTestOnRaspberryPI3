@@ -7,6 +7,22 @@
 	<artifactId>LedTestWithJavaHelp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
+	
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <mainClass>org.raspirecipes.helloworld.HelloWorld</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+			</plugin>
+		</plugins>
+	</build>
 
 	<name>LedTestWithJavaHelp</name>
 	<url>http://maven.apache.org</url>
