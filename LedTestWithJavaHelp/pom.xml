@@ -17,11 +17,13 @@
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
-						<archive>
-							<manifest>
-								<mainClass>system.rspi.LedTestWithJavaHelp.Main</mainClass>
-							</manifest>
-						</archive>
+					<archive>
+						<manifest>
+							<addClasspath>true</addClasspath>
+							<mainClass>system</mainClass>
+							<manifestFile>src/main/resources/META-INF/MANIFEST.MF</manifestFile>
+						</manifest>
+					</archive>
 				</configuration>
 			</plugin>
 		</plugins>

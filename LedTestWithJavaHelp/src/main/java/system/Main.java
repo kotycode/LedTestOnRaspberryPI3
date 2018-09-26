@@ -1,4 +1,4 @@
-package system.rspi.LedTestWithJavaHelp;
+package system;
 
 import com.pi4j.io.gpio.GpioController;
 import com.pi4j.io.gpio.GpioFactory;
