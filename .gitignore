@@ -21,3 +21,4 @@ hs_err_pid*
 .recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_0.tii
 .recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments_1
 .recommenders/index/http___download_eclipse_org_recommenders_models_photon_/write.lock
+/.recommenders/
