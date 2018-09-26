@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/kotycode/LedTestOnRaspberryPI3"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<section name="GitCommitMessageComponent">
+		<list key="/Users/kotycode/Documents/GitHub/LedTestOnRaspberryPI3/.git">
+			<item value="false"/>
+			<item value="Aleksander Tester &lt;kotycode@onet.pl&gt;"/>
+			<item value="&#x0A;&#x0A;Pierwsz proba wgrania §1&#x0A;*Dodano zaleznosc pi4j"/>
+			<item value="Aleksander Tester &lt;kotycode@onet.pl&gt;"/>
+			<item value="fdb86e5e75d7e0f2828f9045cfcfd0a3e6062664"/>
+			<item value="0"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="200,200" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="200,200" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
